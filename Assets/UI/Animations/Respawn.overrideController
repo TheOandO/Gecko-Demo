@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Respawn
+  m_Controller: {fileID: 9100000, guid: cbb36ec7664b8f940b5b83a9ece5ffc4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 98d3d7ef980114c4da437075e2e367f3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c08a6fba6ceaa844f881ee3c6e0a31b2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4f8bcc396f173f8499a1eb319d9bcdf1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 54781dd83267cbf4eaef2966eeeec719, type: 2}

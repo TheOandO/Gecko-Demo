@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EnemyHitbox
+  - Obstacle
+  - Audio
+  - Ground
+  - UI
+  - Vfx
+  - Ladder
+  - UI_Dialogue
+  - NPC
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - PlayerHitbox
+  - EnemyHitbox
+  - GroundDetect
+  - Pickup
+  - Node
+  - Obstacles
+  - Ladder
+  - BossDetect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2722221697
+    locked: 0
+  - name: Background2
+    uniqueID: 2651675859
+    locked: 0
+  - name: Ground
+    uniqueID: 2263607473
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Obstacle
+    uniqueID: 4169978867
+    locked: 0
+  - name: Vfx
+    uniqueID: 338919275
+    locked: 0
+  - name: Foreground
+    uniqueID: 4117469707
+    locked: 0
+  - name: Enemies
+    uniqueID: 2766890309
+    locked: 0
+  - name: SortingTexture
+    uniqueID: 1279676067
+    locked: 0
+  - name: Unlit
+    uniqueID: 3278130749
+    locked: 0

@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Gecko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\gecko\\assets\\scripts\\ui\\gamemiscsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gamemiscsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\characters\\playerrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\playerrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\gecko\\assets\\scripts\\objects\\fallingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\fallingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\ui\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\characters\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\attacks\\projectilefire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attacks\\projectilefire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\scene\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\ui\\goresetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\goresetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\characters\\dummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\dummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\objects\\dashpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\dashpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\interactables\\timelinetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\timelinetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\interactables\\bosseszone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\bosseszone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\objects\\cameractrltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\cameractrltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\ui\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\characters\\witch_b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\witch_b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\characters\\witch_w.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\witch_w.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\characters\\detectionzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\detectionzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\characters\\witchb_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\witchb_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Gecko\\assets\\scripts\\characters\\witchw_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58985637-047E-78FF-D837-2812E8C0A02D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\witchw_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameMiscSettings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\UI\\GameMiscSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameMiscSettings.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\UI\\GameMiscSettings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameMiscSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:47:55.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GOResetManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\UI\\GOResetManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GOResetManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\UI\\GOResetManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GOResetManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwC4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:06:00.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dummy.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Characters\\Dummy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\Dummy.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Characters\\Dummy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\Dummy.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:05:38.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\UI\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\UI\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MainMenu.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAuwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:24:42.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FallingPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Objects\\FallingPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\FallingPlatform.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Objects\\FallingPlatform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objects\\FallingPlatform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:41:59.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimelineTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Interactables\\TimelineTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\TimelineTrigger.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Interactables\\TimelineTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactables\\TimelineTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:12:20.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BossesZone.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Interactables\\BossesZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\BossesZone.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Interactables\\BossesZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactables\\BossesZone.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:51:42.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CameraCtrlTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Objects\\CameraCtrlTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\CameraCtrlTrigger.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Objects\\CameraCtrlTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objects\\CameraCtrlTrigger.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwHIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:48:38.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\UI\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CameraManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\UI\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CameraManager.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAwK8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:55:00.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Characters\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Characters\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\PlayerController.cs",
+              "ViewState": "AgIAAGcDAAAAAAAAAAAcwJsDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:38:03.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DetectionZone.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Characters\\DetectionZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\DetectionZone.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Characters\\DetectionZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\DetectionZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:44:35.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WitchW_Test.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Characters\\WitchW_Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\WitchW_Test.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Characters\\WitchW_Test.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\WitchW_Test.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:42:20.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WitchB_Test.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Characters\\WitchB_Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\WitchB_Test.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Characters\\WitchB_Test.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\WitchB_Test.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:41:45.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Witch_B.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Characters\\Witch_B.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\Witch_B.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Characters\\Witch_B.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\Witch_B.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAABRwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:40:27.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Witch_W.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Characters\\Witch_W.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\Witch_W.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Characters\\Witch_W.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\Witch_W.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAYwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:40:11.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerRespawn.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Characters\\PlayerRespawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\PlayerRespawn.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Characters\\PlayerRespawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\PlayerRespawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:38:57.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SceneController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Scene\\SceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene\\SceneController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Scene\\SceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene\\SceneController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:43:19.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectileFire.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Attacks\\ProjectileFire.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attacks\\ProjectileFire.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Attacks\\ProjectileFire.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attacks\\ProjectileFire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:01:33.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\UI\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\UI\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:05:29.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashPickup.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Objects\\DashPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\DashPickup.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Gecko\\Assets\\Scripts\\Objects\\DashPickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objects\\DashPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:45:12.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
